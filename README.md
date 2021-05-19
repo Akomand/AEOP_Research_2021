@@ -13,12 +13,12 @@
 
 
 ## Introduction to Machine Learning
-Andrew Ng's Free Machine Learning Course on Coursera: https://www.coursera.org/learn/machine-learning
+Andrew Ng's Free Machine Learning Course on Coursera: https://www.coursera.org/learn/machine-learning <br>
 3Blue1Brown Youtube Channel for linear algebra and neural networks intuition: https://www.youtube.com/c/3blue1brown/playlists
 
 
 ## Research Resources
-Overleaf (online LaTex editor): https://www.overleaf.com
+Overleaf (online LaTex editor): https://www.overleaf.com <br>
 Arxiv (Search for research papers): https://arxiv.org/
 
 
