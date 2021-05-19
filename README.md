@@ -1,5 +1,6 @@
 # Summer 2021 AEOP Research Guide
 
+## Program Schedule
 | Week  | Activity |
 | ------------- | ------------- |
 | Week 1  | Introduction to Machine Learning, Tools, and Research <br><br> Monday: Introduction to Research <br> Tuesday: Machine Learning Classifiers <br> Wednesday: Neural Networks and Deep Learning <br> Thursday: NLP Deep Learning Example |
