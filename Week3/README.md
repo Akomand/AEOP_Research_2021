@@ -1,5 +1,5 @@
 # Week 3 Materials
-## Reading Research Papers and Writing in LaTex
+## Introduction to Natural Language Processing and PyTorch
 ### MONDAY
 
 
