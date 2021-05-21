@@ -1,5 +1,5 @@
 # Week 4 Materials
-## Reading Research Papers and Writing in LaTex
+## Project: Question Generation/Answering, Read Papers
 ### MONDAY
 
 
