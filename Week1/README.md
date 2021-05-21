@@ -1,1 +1,1 @@
-# Week 1 Materials
+# Week 1 Materials: Introduction to Machine Learning, Tools, and Research
