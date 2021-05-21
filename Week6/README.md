@@ -1,5 +1,5 @@
 # Week 6 Materials
-## Reading Research Papers and Writing in LaTex
+## Project Wrap-up
 ### MONDAY
 
 
