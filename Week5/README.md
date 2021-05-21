@@ -1,5 +1,5 @@
 # Week 5 Materials
-## Reading Research Papers and Writing in LaTex
+## Programming Question Answering model using PyTorch
 ### MONDAY
 
 
