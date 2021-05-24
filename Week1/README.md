@@ -34,7 +34,9 @@ k-means clustering <br>
 What is Deep Learning? 
 
 Neural Networks 
+
 Intuition behind forward and backpropagation of a neural network
+
 Basic example using MNIST dataset in PyTorch
 
 
