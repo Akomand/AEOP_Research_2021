@@ -11,7 +11,7 @@ Python is an incredibly powerful language and most tasks in data science and mac
 ### Install Anaconda 
 
 
-Homework: Read "A Very Brief Introduction to Machine Learning
+Homework: Read Abstract and Introduction (until page 4) of "A Very Brief Introduction to Machine Learning
 With Applications to Communication Systems" found here https://arxiv.org/pdf/1808.02342.pdf
 
 ## TUESDAY
