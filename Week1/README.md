@@ -26,9 +26,12 @@ neural networks <br>
 k-nearest neighbors <br>
 k-means clustering <br>
 
+Homework: Read "A Very Brief Introduction to Machine Learning
+With Applications to Communication Systems" found here https://arxiv.org/pdf/1808.02342.pdf
+
 
 ## WEDNESDAY
-
+Discuss "A Very Brief Introduction to Machine Learning With Applications to Communication Systems" and its application.
 
 
 ## THURSDAY
