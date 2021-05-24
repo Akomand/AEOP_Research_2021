@@ -11,9 +11,12 @@ Python is an incredibly powerful language and most tasks in data science and mac
 ### Install Anaconda 
 
 
+Homework: Read "A Very Brief Introduction to Machine Learning
+With Applications to Communication Systems" found here https://arxiv.org/pdf/1808.02342.pdf
 
 ## TUESDAY
 ### Taking a look at some machine learning models
+Discuss "A Very Brief Introduction to Machine Learning With Applications to Communication Systems" and its application.
 
 <b>Supervised Learning</b> - Machine Learning for which you have data along with its labels to train a model to learn from experience.
 <b>Unsupervised Learning</b> - Machine Learning where you have no predefined labels given with your data. Task is to find structure among the data points and find a pattern. Much more difficult than supervised learning techniques.
@@ -26,12 +29,14 @@ neural networks <br>
 k-nearest neighbors <br>
 k-means clustering <br>
 
-Homework: Read "A Very Brief Introduction to Machine Learning
-With Applications to Communication Systems" found here https://arxiv.org/pdf/1808.02342.pdf
-
 
 ## WEDNESDAY
-Discuss "A Very Brief Introduction to Machine Learning With Applications to Communication Systems" and its application.
+What is Deep Learning? 
+
+Neural Networks 
+Intuition behind forward and backpropagation of a neural network
+Basic example using MNIST dataset in PyTorch
+
 
 
 ## THURSDAY
