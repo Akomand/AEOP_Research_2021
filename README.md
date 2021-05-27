@@ -19,7 +19,7 @@
 
 ## Research Resources
 Overleaf (online LaTex editor): https://www.overleaf.com <br>
-Arxiv (Search for research papers): https://arxiv.org/
+Arxiv (Search for research papers): https://arxiv.org/ <br>
 Connected Papers: https://www.connectedpapers.com/
 
 
