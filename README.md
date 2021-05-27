@@ -20,6 +20,7 @@
 ## Research Resources
 Overleaf (online LaTex editor): https://www.overleaf.com <br>
 Arxiv (Search for research papers): https://arxiv.org/
+Connected Papers: https://www.connectedpapers.com/
 
 
 ## Programming with PyTorch
