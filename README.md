@@ -1,6 +1,8 @@
 # Summer 2021 AEOP Research Guide
 Welcome to the Army Educational Outreach Program for Summer 2021 at the University of Arkansas!
 
+## Team 1: Question Answering
+
 Week 1 will be a crash course on basic machine learning concepts from basic classifiers to deep neural networks. Week 2 will be crash course on NLP and a practical application of deep neural networks to text processing. Week 3-6 will be focused on researching a topic, performing experiments, and writing a paper. There will be workshops on paper reading and writing as well. 
 
 ## Program Schedule
