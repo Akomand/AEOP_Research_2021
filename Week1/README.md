@@ -5,7 +5,7 @@
 We will introduce machine learning and its various applications to real world problems. We discuss the two broad types of machine learning: supervised and
 unsupervised learning, and discuss the regression vs. classification tasks. Unsupervised learning topics such as recommender systems and clustering are discussed as well.
 
-Homework: Read Abstract and Introduction (until page 4) of "A Very Brief Introduction to Machine Learning
+Homework: Read Abstract and Introduction (Section A, B, and C) (until page 4) of "A Very Brief Introduction to Machine Learning
 With Applications to Communication Systems" found here https://arxiv.org/pdf/1808.02342.pdf
 
 ## WEDNESDAY
