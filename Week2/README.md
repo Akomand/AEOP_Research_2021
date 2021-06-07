@@ -11,7 +11,7 @@ We will be going over text preprocessing techniques including
 - Continuous Bag-of-words and Skip-gram
 - Word Embeddings (Word2Vec)
 
-Slides: https://dijkstra.eecs.umich.edu/eecs498/lectures/l2.pdf
+Slides: https://dijkstra.eecs.umich.edu/eecs498/lectures/l2.pdf <br>
 Suggested Reading (Word2Vec): https://arxiv.org/pdf/1301.3781.pdf
 
 
