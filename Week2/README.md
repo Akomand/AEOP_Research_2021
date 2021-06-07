@@ -1,5 +1,5 @@
 # Week 2 Materials
-## Reading Research Papers and Writing in LaTex
+## Introduction to Natural Language Processing
 ### MONDAY
 
 
