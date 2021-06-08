@@ -25,7 +25,7 @@ Week 1 will be a crash course on basic machine learning concepts from basic clas
 IEEE Xplore: https://ieeexplore.ieee.org/Xplore/home.jsp <br>
 Arxiv (Search for research papers): https://arxiv.org/ <br>
 Connected Papers: https://www.connectedpapers.com/ <br>
-Paperswithcode: https://paperswithcode.com/
+Paperswithcode: https://paperswithcode.com/ <br>
 Google Scholar: https://scholar.google.com/
 
 ## Writing Resources
