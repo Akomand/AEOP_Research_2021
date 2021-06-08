@@ -20,7 +20,7 @@ Part I: We will deep dive into what topic modeling is and its use-cases. We'll l
 
 Part II: We will disect apart the "A Very Brief Introduction to Machine Learning" paper and the below paper on Latent Dirichlet Allocation.
 
-Suggested Reading (LDA): https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+Suggested Reading (LDA): https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf <br>
 Assignment: Research a paper on a topic of your choice in the field of NLP from the following list
 - Sentiment Analysis
 - Machine Translation
