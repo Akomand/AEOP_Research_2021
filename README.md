@@ -22,11 +22,16 @@ Week 1 will be a crash course on basic machine learning concepts from basic clas
 
 
 ## Research Resources
-Overleaf (online LaTex editor): https://www.overleaf.com <br>
+IEEE Xplore: https://ieeexplore.ieee.org/Xplore/home.jsp <br>
 Arxiv (Search for research papers): https://arxiv.org/ <br>
-Connected Papers: https://www.connectedpapers.com/
+Connected Papers: https://www.connectedpapers.com/ <br>
+Paperswithcode: https://paperswithcode.com/
+Google Scholar: https://scholar.google.com/
 
+## Writing Resources
+Overleaf (online LaTex editor): https://www.overleaf.com 
 
-## Programming with PyTorch
-PyTorch website: https://pytorch.org/
+## Programming/Implementation
+PyTorch website: https://pytorch.org/<br>
+HuggingFace Transformers: https://huggingface.co/transformers/
 
