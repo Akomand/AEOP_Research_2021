@@ -31,10 +31,11 @@ Assignment: Research a paper on a topic of your choice in the field of NLP from 
 
 ### WEDNESDAY (Sequence Models)
 Part I: We will look at sequence models for NLP such as the Recurrent Neural Network (RNN) and a special variant called Long-Short Term Memory (LSTM) and apply them
-to the task of sentiment analysis given a corpus of text.
+to the task of text classification and machine translation given a corpora of text.
 
 Part II: We will disect the below suggested paper on Recurrent Neural Networks (RNNs):
 
+Code: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 Suggested Reading (RNNs): https://arxiv.org/pdf/1912.05911.pdf
 
 ### THURSDAY (Transfer Learning)
