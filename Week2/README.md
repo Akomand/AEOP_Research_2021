@@ -35,8 +35,10 @@ to the task of text classification and machine translation given a corpora of te
 
 Part II: We will disect the below suggested paper on Recurrent Neural Networks (RNNs):
 
-Code: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html <br>
-Suggested Reading (RNNs): https://arxiv.org/pdf/1912.05911.pdf
+Suggested Reading (RNNs): https://arxiv.org/pdf/1912.05911.pdf <br>
+Code (Character Level Text Classification): https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html <br>
+Code (Machine Translation): https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html <br>
+Visualizing Attention: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
 ### THURSDAY (Transfer Learning)
 
