@@ -42,7 +42,7 @@ Suggested Reading (RNNs): https://arxiv.org/pdf/1912.05911.pdf
 
 Part I: We will talk about transformers from the "Attention is all you need" paper and discuss their effectiveness over regular RNNs and LSTMs. Then, we will discuss a specific transformer in NLP known as BERT (Bidirectional Encoder Representations for Transformers) developed by Google.
 
-Suggested Reading (Transformers): "Attention is all you need" (https://arxiv.org/pdf/1706.03762.pdf)
-Code: https://pytorch.org/tutorials/beginner/transformer_tutorial.html
-BERT paper: https://arxiv.org/pdf/1810.04805.pdf
+Suggested Reading (Transformers): "Attention is all you need" (https://arxiv.org/pdf/1706.03762.pdf) <br>
+Code: https://pytorch.org/tutorials/beginner/transformer_tutorial.html <br>
+BERT paper: https://arxiv.org/pdf/1810.04805.pdf <br>
 BERT Explained: https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
