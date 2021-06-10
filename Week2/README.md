@@ -42,7 +42,7 @@ Visualizing Attention: https://jalammar.github.io/visualizing-neural-machine-tra
 
 ### THURSDAY (Transformers)
 
-Part I: We will talk about transformers from the "Attention is all you need" paper and discuss their effectiveness over regular RNNs and LSTMs. Then, we will discuss a specific transformer in NLP known as BERT (Bidirectional Encoder Representations for Transformers) developed by Google.
+Part I: We will talk about transformers from the "Attention is all you need" paper and discuss their effectiveness over regular RNNs and LSTMs. We will also deep dive into the Transformer architecture and its various components.
 
 Suggested Reading (Transformers): "Attention is all you need" (https://arxiv.org/pdf/1706.03762.pdf) <br>
 Transformers Illustrated: https://jalammar.github.io/illustrated-transformer/ <br>
@@ -50,7 +50,7 @@ Code: https://pytorch.org/tutorials/beginner/transformer_tutorial.html <br>
 
 ### FRIDAY (Transfer Learning)
 
-Part I: We will talk about pretrained models such as BERT and ALBERT and discuss how we can fine-tune these models for any task we want using the HuggingFace library.
+Part I: We will talk about pretrained transformer-based models such as BERT (Bidirectional Encoder Representations for Transformers) and ALBERT and discuss how we can fine-tune these models for any task we want using the HuggingFace library.
 
 BERT paper: https://arxiv.org/pdf/1810.04805.pdf <br>
 BERT Explained: https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270 <br>
