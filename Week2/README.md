@@ -40,7 +40,7 @@ Code (Character Level Text Classification): https://pytorch.org/tutorials/interm
 Code (Machine Translation): https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html <br>
 Visualizing Attention: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
-### THURSDAY (Transfer Learning)
+### THURSDAY (Transformers)
 
 Part I: We will talk about transformers from the "Attention is all you need" paper and discuss their effectiveness over regular RNNs and LSTMs. Then, we will discuss a specific transformer in NLP known as BERT (Bidirectional Encoder Representations for Transformers) developed by Google.
 
@@ -50,7 +50,7 @@ Code: https://pytorch.org/tutorials/beginner/transformer_tutorial.html <br>
 BERT paper: https://arxiv.org/pdf/1810.04805.pdf <br>
 BERT Explained: https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 
-### FRIDAY (Introduction to HuggingFace and Pre-trained models)
+### FRIDAY (Transfer Learning)
 
 Part I: We will talk about pretrained models such as BERT and ALBERT and discuss how we can fine-tune these models for any task we want using the HuggingFace library.
 
