@@ -46,3 +46,11 @@ Suggested Reading (Transformers): "Attention is all you need" (https://arxiv.org
 Code: https://pytorch.org/tutorials/beginner/transformer_tutorial.html <br>
 BERT paper: https://arxiv.org/pdf/1810.04805.pdf <br>
 BERT Explained: https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
+### FRIDAY (Introduction to HuggingFace and Pre-trained models)
+
+Part I: We will talk about pretrained models such as BERT and ALBERT and discuss how we can fine-tune these models for any task we want using the HuggingFace library.
+
+BERT Explained: https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270 <br>
+Assignment: Over the weekend, find 2 papers covering the Question Answering task in Natural Language Processing. You can start with Google Scholar, but
+also try to use Arxiv and Connected Papers to search for these papers.
