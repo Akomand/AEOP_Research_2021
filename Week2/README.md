@@ -40,10 +40,9 @@ Suggested Reading (RNNs): https://arxiv.org/pdf/1912.05911.pdf
 
 ### THURSDAY (Transfer Learning)
 
-Part I: We will look into the state-of-the-art in NLP known as Transformers and apply them to the task of sentiment analysis. We'll look at specific transformers including:
-- Bidirectional Encoder Representations for Transformers (BERT)
-- Embeddings for Language Models (ELMo)
-- BERTweet
-- T5
+Part I: We will talk about transformers from the "Attention is all you need" paper and discuss their effectiveness over regular RNNs and LSTMs. Then, we will discuss a specific transformer in NLP known as BERT (Bidirectional Encoder Representations for Transformers) developed by Google.
 
-Suggested Reading (BERT Explained): https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+Suggested Reading (Transformers): "Attention is all you need" (https://arxiv.org/pdf/1706.03762.pdf)
+Code: https://pytorch.org/tutorials/beginner/transformer_tutorial.html
+BERT paper: https://arxiv.org/pdf/1810.04805.pdf
+BERT Explained: https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
