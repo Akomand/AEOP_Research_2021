@@ -51,7 +51,7 @@ Suggested Reading (Transformers): "Attention is All You Need" [[Paper](https://a
 Part I: We will talk about pretrained transformer-based models such as BERT (Bidirectional Encoder Representations for Transformers) and ALBERT and discuss how we can fine-tune these models for any task we want using the HuggingFace library.
 
 Suggested Reading: "Pre-trained Models for Natural Language Processing: A Survey" [[Paper](https://arxiv.org/pdf/2003.08271.pdf)] <br>
-BERT paper: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [[Paper](https://arxiv.org/pdf/1810.04805.pdf)] <br>
+BERT paper: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [[Paper](https://arxiv.org/pdf/1810.04805.pdf)] [[Illustration](http://jalammar.github.io/illustrated-bert/)] <br> 
 BERT Explained [[Article](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)] <br>
 
 #### Other pretrained language models
