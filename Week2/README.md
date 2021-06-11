@@ -44,9 +44,7 @@ Visualizing Attention: https://jalammar.github.io/visualizing-neural-machine-tra
 
 Part I: We will talk about transformers from the "Attention is all you need" paper and discuss their effectiveness over regular RNNs and LSTMs. We will also deep dive into the Transformer architecture and its various components.
 
-Suggested Reading (Transformers): "Attention is all you need" (https://arxiv.org/pdf/1706.03762.pdf) <br>
-Transformers Illustrated: https://jalammar.github.io/illustrated-transformer/ <br>
-Code: https://pytorch.org/tutorials/beginner/transformer_tutorial.html <br>
+Suggested Reading (Transformers): "Attention is All You Need" [[Paper](https://arxiv.org/pdf/1706.03762.pdf)] [[Illustration](https://jalammar.github.io/illustrated-transformer/)] [[Code](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)] <br>
 
 ### FRIDAY (Transfer Learning)
 
