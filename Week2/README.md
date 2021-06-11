@@ -20,8 +20,8 @@ Part I: We will deep dive into what topic modeling is and its use-cases. We'll l
 
 Part II: We will disect apart the "A Very Brief Introduction to Machine Learning" paper and the below paper on Latent Dirichlet Allocation.
 
-Slides: http://www.cs.columbia.edu/~blei/talks/Blei_ICML_2012.pdf <br>
-Suggested Reading (LDA): https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf <br>
+Probabilistic Topic Models [[Slides](http://www.cs.columbia.edu/~blei/talks/Blei_ICML_2012.pdf)] <br>
+Suggested Reading (LDA): "Latent Dirichlet Allocation" [[Paper](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)] <br>
 Assignment: Research a paper on a topic of your choice in the field of NLP from the following list
 - Sentiment Analysis
 - Machine Translation
@@ -35,10 +35,10 @@ to the task of text classification and machine translation given a corpora of te
 
 Part II: We will disect the below suggested paper on Recurrent Neural Networks (RNNs):
 
-Suggested Reading (RNNs): https://arxiv.org/pdf/1912.05911.pdf <br>
-Code (Character Level Text Classification): https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html <br>
-Code (Machine Translation): https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html <br>
-Visualizing Attention: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+Suggested Reading (RNNs): Recurrent Neural Networks (RNNs): A gentle Introduction and Overview [[Paper](https://arxiv.org/pdf/1912.05911.pdf)] <br>
+Character Level Text Classification [[Code](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)] <br>
+Machine Translation [[Code](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)] <br>
+Visualizing Attention: "Mechanics of Seq2seq Models With Attention" [[Article](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)]
 
 ### THURSDAY (Transformers)
 
