@@ -52,15 +52,15 @@ Code: https://pytorch.org/tutorials/beginner/transformer_tutorial.html <br>
 
 Part I: We will talk about pretrained transformer-based models such as BERT (Bidirectional Encoder Representations for Transformers) and ALBERT and discuss how we can fine-tune these models for any task we want using the HuggingFace library.
 
-Suggested Reading ("Pre-trained Models for Natural Language Processing: A Survey"): https://arxiv.org/pdf/2003.08271.pdf <br>
-Bidirectional Encoder Representations from Transformers (BERT) paper: https://arxiv.org/pdf/1810.04805.pdf <br>
+Suggested Reading: "Pre-trained Models for Natural Language Processing: A Survey" [[Paper](https://arxiv.org/pdf/2003.08271.pdf)] <br>
+BERT paper: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[Paper]("https://arxiv.org/pdf/1810.04805.pdf)] <br>
 BERT Explained: https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270 <br>
 
 #### Other pretrained language models
-RoBERTa paper: https://arxiv.org/pdf/1907.11692.pdf <br>
-Embeddings for Language Models (ELMo) paper: https://arxiv.org/pdf/1802.05365.pdf <br>
-Transformers for Longer Sequences (Big Bird) paper: https://arxiv.org/pdf/2007.14062.pdf <br>
-XLNet paper: https://arxiv.org/pdf/1906.08237.pdf 
+"RoBERTa: A Robustly Optimized BERT Pretraining Approach" [[Paper](https://arxiv.org/pdf/1907.11692.pdf)] <br>
+"ELMo: Deep contextualized word representations" [[Paper](https://arxiv.org/pdf/1802.05365.pdf)] <br>
+"Big Bird: Transformers for Longer Sequences" [[Paper](https://arxiv.org/pdf/2007.14062.pdf)] <br>
+"XLNet: Generalized Autoregressive Pretraining for Language Understanding" [[Paper](https://arxiv.org/pdf/1906.08237.pdf)]
 
 
 Assignment: Over the weekend, find 2 papers covering the Question Answering task in Natural Language Processing. You can start with Google Scholar, but
