@@ -61,5 +61,4 @@ BERT Explained [[Article](https://towardsdatascience.com/bert-explained-state-of
 "XLNet: Generalized Autoregressive Pretraining for Language Understanding" [[Paper](https://arxiv.org/pdf/1906.08237.pdf)]
 
 
-Assignment: Over the weekend, find 2 papers covering the Question Answering task in Natural Language Processing. You can start with Google Scholar, but
-also try to use Arxiv and Connected Papers to search for these papers.
+Assignment: Over the weekend, find 2 papers (published in 2018 or later) covering the Question Answering task in Natural Language Processing using either Sequence models, Transformers, or some other unique technique. You can start with Google Scholar, but also try to use Connected Papers to search for these papers since it returns the most relevant and recent papers as well as those related.
