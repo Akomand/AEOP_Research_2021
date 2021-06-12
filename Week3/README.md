@@ -11,9 +11,9 @@ Reading Research
 5. Glance through experiments to see how well their approach performed compared to other methods they list and why
 6. Finally, read their approach high-level first and then in detail (with the math) on the second run
 
-Highlight concepts in BLUE
-Highlight results/experiment in GREEN
-Highlight approach in ORANGE
+Highlight concepts in BLUE<br>
+Highlight results/experiment in GREEN <br>
+Highlight approach in ORANGE <br>
 Highlight contributions in red
 
 ### TUESDAY
