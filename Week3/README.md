@@ -1,7 +1,22 @@
 # Week 3 Materials
 ## Reading Research and Writing in Latex
 ### MONDAY
-We will explore what research in machine learning looks like, how to read research papers, and read some Question Answering papers using the strategies we learn.
+We will explore what research in machine learning looks like, how to read research papers, and read some Question Answering papers using the strategies we learn. We will also go over common evaluation metrics that show up when we are evaluating our models in NLP.
+
+Evaluation Metrics in NLP
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Area Under the Curve (AUC)
+- Mean Reciprocal Rank (MRR)
+- Mean Average Precision (MAP)
+- Root Mean Squared Error (RMSE)
+- Bilingual Evaluation Understudy (BLEU)
+- Metric for Evaluation of Translation with Explicit Ordering (METEOR)
+- Recall-Oriented Understudy for Gisting Evaluation (ROUGE)
+
+"The Most Common Evaluation Metrics in NLP" [[Article](https://towardsdatascience.com/the-most-common-evaluation-metrics-in-nlp-ced6a763ac8b)]
 
 Reading Research
 1. Read Abstract (Highlight important words/concepts)
@@ -14,7 +29,7 @@ Reading Research
 - Highlight concepts in BLUE<br>
 - Highlight results/experiment in GREEN <br>
 - Highlight approach in ORANGE <br>
-- Highlight contributions in red
+- Highlight contributions in RED
 
 ### TUESDAY
 We will find papers in Question Answering and read through them in detail. We will also look at possible code implementations of 
