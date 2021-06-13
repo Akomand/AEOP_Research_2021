@@ -38,7 +38,8 @@ Part II: We will disect the below suggested paper on Recurrent Neural Networks (
 Suggested Reading (RNNs): Recurrent Neural Networks (RNNs): A gentle Introduction and Overview [[Paper](https://arxiv.org/pdf/1912.05911.pdf)] <br>
 Character Level Text Classification [[Code](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)] <br>
 Machine Translation [[Code](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)] <br>
-Visualizing Attention: "Mechanics of Seq2seq Models With Attention" [[Article](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)]
+Visualizing Attention: "Mechanics of Seq2seq Models With Attention" [[Article](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)] <br>
+"An intuitive explanation of Beam Search" [[Article](https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f)]
 
 ### THURSDAY (Transformers)
 
