@@ -11,21 +11,31 @@ Reading Research
 5. Glance through experiments to see how well their approach performed compared to other methods they list and why
 6. Finally, read their approach high-level first and then in detail (with the math) on the second run
 
-Highlight concepts in BLUE<br>
-Highlight results/experiment in GREEN <br>
-Highlight approach in ORANGE <br>
-Highlight contributions in red
+- Highlight concepts in BLUE<br>
+- Highlight results/experiment in GREEN <br>
+- Highlight approach in ORANGE <br>
+- Highlight contributions in red
 
 ### TUESDAY
-
+We will find papers in Question Answering and read through them in detail. We will also look at possible code implementations of 
+methods proposed and have a group discussion. We will try to find an interesting application of the question answering task.
 
 
 ### WEDNESDAY
-
+We will do activities for writing using LaTeX including:
+- Setting up section headers
+- IEEE double column format
+- Creating tables
+- Inserting images
+- Citing references
+- General writing procedure
 
 
 ### THURSDAY
-We will do activities for writing using LaTeX including setting up section headers, IEEE double column format, creating tables, inserting images, and citing references in addition to many others.
+We will find papers in Question Answering and read through them in detail. We will also look at possible code implementations of 
+methods proposed. 
 
 
 ### FRIDAY
+We will find papers in Question Answering and read through them in detail. We will also look at possible code implementations of 
+methods proposed. 
