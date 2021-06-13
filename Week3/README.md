@@ -35,6 +35,11 @@ We will do activities for writing using LaTeX including:
 We will find papers in Question Answering and read through them in detail. We will also look at possible code implementations of 
 methods proposed. 
 
+Ideas for Question Answering Paper:
+- A Survey of Question Answering in Natural Language Processing
+- A Comparative Study between Sequence Models and Pre-trained Language Models on Question Answering
+- Apply Pre-trained Language Models on Standardized Reading Comprehension Test datasets
+
 
 ### FRIDAY
 We will find papers in Question Answering and read through them in detail. We will also look at possible code implementations of 
