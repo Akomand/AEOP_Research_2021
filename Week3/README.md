@@ -33,7 +33,7 @@ methods proposed and have a group discussion. We will try to find an interesting
 
 #### Areas of Question Answering
 - Vanilla Question Answering (given passage and a question, generate answer to question) 
-  - 
+  - Paper
 - Visual Question Answering (given image and a question, generate answer to question) 
   - [[Paper](https://arxiv.org/pdf/1505.00468.pdf)]
   - 
