@@ -32,14 +32,21 @@ We will find papers in Question Answering and read through them in detail. We wi
 methods proposed and have a group discussion. We will try to find an interesting application of the question answering task.
 
 #### Areas of Question Answering
-- Vanilla Question Answering (given passage and a question, generate answer to question) 
-  - Paper
+- Question Answering (given passage and a question, generate answer to question) 
+  - A Neural Question Answering System for Basic Questions about Subroutines [[Paper](https://arxiv.org/pdf/2101.03999.pdf)]
+  - CoQA: A Conversational Question Answering Challenge [[Paper](CoQA: A Conversational Question Answering Challenge)]
+- Knowledge-based Question Answering
+  - Knowledge Graph Question Answering using Graph-Pattern Isomorphism [[Paper](https://arxiv.org/pdf/2103.06752.pdf)]
+  - A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges [[Paper](https://arxiv.org/pdf/2007.13069.pdf)]
+  - Text-based Question Answering from Information Retrieval and Deep Neural Network Perspectives: A Survey [[Paper](https://arxiv.org/pdf/2002.06612v2.pdf)]
 - Visual Question Answering (given image and a question, generate answer to question) 
-  - [[Paper](https://arxiv.org/pdf/1505.00468.pdf)]
-  - 
+  - VSQ: Visual Question Answering [[Paper](https://arxiv.org/pdf/1505.00468.pdf)]
+  - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering [[Paper](https://arxiv.org/pdf/1707.07998.pdf)]
 - Open-Domain Question Answering 
-  - [[Paper](https://arxiv.org/pdf/2009.00914.pdf)]
-
+  - Revisiting the Open-Domain Question Answering Pipeline [[Paper](https://arxiv.org/pdf/2009.00914.pdf)]
+  - DilBert: Delaying Interaction Layers in Transformer-based Encoders for Efficient Open Domain Question Answeringn [[Paper](https://arxiv.org/pdf/2010.08422.pdf)]
+  - ProQA: Resource-efficient method for pretraining a dense corpus index for open-domain QA and IR [[Paper](https://arxiv.org/pdf/2005.00038.pdf)]
+  - Open Question Answering Over Tables and Text [[Paper](https://arxiv.org/pdf/2010.10439.pdf)]
 
 ### WEDNESDAY
 We will do activities for writing using LaTeX including:
