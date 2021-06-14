@@ -35,6 +35,7 @@ methods proposed and have a group discussion. We will try to find an interesting
 - Question Answering (given passage and a question, generate answer to question) 
   - A Neural Question Answering System for Basic Questions about Subroutines [[Paper](https://arxiv.org/pdf/2101.03999.pdf)]
   - CoQA: A Conversational Question Answering Challenge [[Paper](https://arxiv.org/pdf/1808.07042.pdf)]
+  - Transformer-Based Models for Question Answering on COVID-19 [[Paper](https://arxiv.org/pdf/2101.11432.pdf)]
 - Knowledge-based Question Answering
   - Knowledge Graph Question Answering using Graph-Pattern Isomorphism [[Paper](https://arxiv.org/pdf/2103.06752.pdf)]
   - A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges [[Paper](https://arxiv.org/pdf/2007.13069.pdf)]
@@ -47,6 +48,7 @@ methods proposed and have a group discussion. We will try to find an interesting
   - DilBert: Delaying Interaction Layers in Transformer-based Encoders for Efficient Open Domain Question Answeringn [[Paper](https://arxiv.org/pdf/2010.08422.pdf)]
   - ProQA: Resource-efficient method for pretraining a dense corpus index for open-domain QA and IR [[Paper](https://arxiv.org/pdf/2005.00038.pdf)]
   - Open Question Answering Over Tables and Text [[Paper](https://arxiv.org/pdf/2010.10439.pdf)]
+  - Talk to Papers: Bringing Neural Question Answering to Academic Search [[Paper](https://arxiv.org/pdf/2004.02002.pdf)]
 
 ### WEDNESDAY
 We will do activities for writing using LaTeX including:
