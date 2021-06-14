@@ -34,7 +34,7 @@ methods proposed and have a group discussion. We will try to find an interesting
 #### Areas of Question Answering
 - Question Answering (given passage and a question, generate answer to question) 
   - A Neural Question Answering System for Basic Questions about Subroutines [[Paper](https://arxiv.org/pdf/2101.03999.pdf)]
-  - CoQA: A Conversational Question Answering Challenge [[Paper](CoQA: A Conversational Question Answering Challenge)]
+  - CoQA: A Conversational Question Answering Challenge [[Paper](https://arxiv.org/pdf/1808.07042.pdf)]
 - Knowledge-based Question Answering
   - Knowledge Graph Question Answering using Graph-Pattern Isomorphism [[Paper](https://arxiv.org/pdf/2103.06752.pdf)]
   - A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges [[Paper](https://arxiv.org/pdf/2007.13069.pdf)]
