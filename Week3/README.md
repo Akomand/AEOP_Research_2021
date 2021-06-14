@@ -31,9 +31,15 @@ Reading Research
 - Highlight approach in ORANGE <br>
 - Highlight contributions in RED
 
+#### Areas of Question Answering
+- Vanilla Question Answering (given passage and a question, generate answer to question)
+- Visual Question Answering (given image and a question, generate answer to question)
+- Open-Domain Question Answering 
+
 ### TUESDAY
 We will find papers in Question Answering and read through them in detail. We will also look at possible code implementations of 
 methods proposed and have a group discussion. We will try to find an interesting application of the question answering task.
+
 
 
 ### WEDNESDAY
