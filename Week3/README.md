@@ -32,9 +32,9 @@ Reading Research
 - Highlight contributions in RED
 
 #### Areas of Question Answering
-- Vanilla Question Answering (given passage and a question, generate answer to question)
-- Visual Question Answering (given image and a question, generate answer to question)
-- Open-Domain Question Answering 
+- Vanilla Question Answering (given passage and a question, generate answer to question) 
+- Visual Question Answering (given image and a question, generate answer to question) [[Paper](https://arxiv.org/pdf/1505.00468.pdf)]
+- Open-Domain Question Answering [[Paper](https://arxiv.org/pdf/2009.00914.pdf)]
 
 ### TUESDAY
 We will find papers in Question Answering and read through them in detail. We will also look at possible code implementations of 
