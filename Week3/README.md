@@ -26,20 +26,19 @@ Reading Research
 5. Glance through experiments to see how well their approach performed compared to other methods they list and why
 6. Finally, read their approach high-level first and then in detail (with the math) on the second run
 
-- Highlight concepts in BLUE<br>
-- Highlight results/experiment in GREEN <br>
-- Highlight approach in ORANGE <br>
-- Highlight contributions in RED
-
-#### Areas of Question Answering
-- Vanilla Question Answering (given passage and a question, generate answer to question) 
-- Visual Question Answering (given image and a question, generate answer to question) [[Paper](https://arxiv.org/pdf/1505.00468.pdf)]
-- Open-Domain Question Answering [[Paper](https://arxiv.org/pdf/2009.00914.pdf)]
 
 ### TUESDAY
 We will find papers in Question Answering and read through them in detail. We will also look at possible code implementations of 
 methods proposed and have a group discussion. We will try to find an interesting application of the question answering task.
 
+#### Areas of Question Answering
+- Vanilla Question Answering (given passage and a question, generate answer to question) 
+  - 
+- Visual Question Answering (given image and a question, generate answer to question) 
+  - [[Paper](https://arxiv.org/pdf/1505.00468.pdf)]
+  - 
+- Open-Domain Question Answering 
+  - [[Paper](https://arxiv.org/pdf/2009.00914.pdf)]
 
 
 ### WEDNESDAY
