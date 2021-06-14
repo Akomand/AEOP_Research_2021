@@ -36,6 +36,7 @@ methods proposed and have a group discussion. We will try to find an interesting
   - A Neural Question Answering System for Basic Questions about Subroutines [[Paper](https://arxiv.org/pdf/2101.03999.pdf)]
   - CoQA: A Conversational Question Answering Challenge [[Paper](https://arxiv.org/pdf/1808.07042.pdf)]
   - Transformer-Based Models for Question Answering on COVID-19 [[Paper](https://arxiv.org/pdf/2101.11432.pdf)]
+  - Natural Questions: a Benchmark for Question Answering Research [[Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf)]
 - Knowledge-based Question Answering
   - Knowledge Graph Question Answering using Graph-Pattern Isomorphism [[Paper](https://arxiv.org/pdf/2103.06752.pdf)]
   - A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges [[Paper](https://arxiv.org/pdf/2007.13069.pdf)]
