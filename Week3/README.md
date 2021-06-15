@@ -32,6 +32,8 @@ We will find papers in Question Answering and read through them in detail. We wi
 methods proposed and have a group discussion. We will try to find an interesting application of the question answering task.
 
 #### Areas of Question Answering
+- Machine Reading Comprehension
+  - English Machine Reading Comprehension Datasets: A Survey [[Paper](https://arxiv.org/pdf/2101.10421.pdf)] 
 - Question Answering (given passage and a question, generate answer to question) 
   - A Neural Question Answering System for Basic Questions about Subroutines [[Paper](https://arxiv.org/pdf/2101.03999.pdf)]
   - CoQA: A Conversational Question Answering Challenge [[Paper](https://arxiv.org/pdf/1808.07042.pdf)]
@@ -50,6 +52,7 @@ methods proposed and have a group discussion. We will try to find an interesting
   - ProQA: Resource-efficient method for pretraining a dense corpus index for open-domain QA and IR [[Paper](https://arxiv.org/pdf/2005.00038.pdf)]
   - Open Question Answering Over Tables and Text [[Paper](https://arxiv.org/pdf/2010.10439.pdf)]
   - Talk to Papers: Bringing Neural Question Answering to Academic Search [[Paper](https://arxiv.org/pdf/2004.02002.pdf)]
+
 
 ### WEDNESDAY
 We will do activities for writing using LaTeX including:
