@@ -1,0 +1,175 @@
+% Preamble (import packages)
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}  % sets the margins to 1 inch every side
+\usepackage{amssymb}
+\usepackage{cite}
+\usepackage{apacite}
+\usepackage{graphicx}
+
+% Title header
+\title{Cats are cool!}
+\author{Aneesh}
+\date{}
+
+\begin{document}
+
+\maketitle % This just displays the title we created above on the page
+
+\section{Introduction}
+\subsection{Alignment}
+% \textbf = bold a word or sentence
+% \textit = italicize word or sentence
+% \underline = underline word or sentence
+This is the \underline{\textit{\textbf{alignment}}} section!!! \\
+
+% This part shows how to center text
+\underline{\textbf{Center}}
+\begin{center}
+Example 1: The following paragraph (given in quotes) is an 
+example of Center Alignment using the center environment. 
+
+``LaTeX is a document preparation system and document markup 
+language. LaTeX uses the TeX typesetting program for formatting 
+its output, and is itself written in the TeX macro language. 
+LaTeX is not the name of a particular editing program, but 
+refers to the encoding or tagging conventions that are used 
+in LaTeX documents".
+\end{center}
+
+
+% This part shows how to flush left
+\underline{\textbf{Flush Left}}
+\begin{flushleft}
+Example 1: The following paragraph (given in quotes) is an 
+example of Center Alignment using the center environment. 
+
+``LaTeX is a document preparation system and document markup 
+language. LaTeX uses the TeX typesetting program for formatting 
+its output, and is itself written in the TeX macro language. 
+LaTeX is not the name of a particular editing program, but 
+refers to the encoding or tagging conventions that are used 
+in LaTeX documents".
+\end{flushleft}
+
+
+% This part shows how to flush right
+\underline{\textbf{Flush Right}}
+\begin{flushright}
+Example 1: The following paragraph (given in quotes) is an 
+example of Center Alignment using the center environment. 
+
+``LaTeX is a document preparation system and document markup 
+language. LaTeX uses the TeX typesetting program for formatting 
+its output, and is itself written in the TeX macro language. 
+LaTeX is not the name of a particular editing program, but 
+refers to the encoding or tagging conventions that are used 
+in LaTeX documents".
+\end{flushright}
+
+
+\underline{\textbf{Begin Paragraphs}} \\
+This is the text in first paragraph. This is the text in first 
+paragraph. This is the text in first paragraph. \par
+This is the text in second paragraph. This is the text in second 
+paragraph. This is the text in second paragraph.
+
+
+\newpage
+
+
+\section{Section 1: Writing Mathematics}
+% Equation of a line
+\begin{equation}
+    y = mx + b
+\end{equation}
+
+% The Quadratic equation
+\begin{equation}
+    f(x) = ax^2 + bx + c
+\end{equation}
+
+% Quadratic formula
+To find the roots of a quadratic equation, we can use the following formula:
+\begin{equation}
+    x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\end{equation}
+
+% Greek symbols
+Often, in deep learning, we set the learning rate, $\alpha$, to $0.01$. \\
+
+\begin{center}
+    Beta: $\beta$ \\
+Gamma: $\gamma$
+\end{center}
+
+We define a function $f: \mathbb{R} \rightarrow \mathbb{R}$. \\
+
+\begin{equation}
+    \sum_{i=0}^5 i = 15
+\end{equation}
+
+\begin{equation}
+    \prod_{i=1}^5 i = 5! = 120
+\end{equation}
+
+
+\newpage
+
+\section{Section 2: Bibliographies}
+There has been a lot of improvements in Multi-Choice Machine Reading Comprehension (MMRC) including reformulations of the problem as Single-Choice to allow the use of Transfer Learning to improve existing models \cite{jiang2020improving}.
+
+
+
+\newpage
+
+\section{Section 3: Images}
+
+% Inserting an image and captioning it
+\begin{figure}[!h]
+    \centering
+    \includegraphics[scale=0.2]{AEOP_Logo.jpeg}
+    \caption{This is an image of the AEOP logo}
+    \label{fig:my_label}
+\end{figure}
+
+
+
+\section{Section 4: Tables}
+
+\begin{center}
+ \begin{tabular}{c c} % each c specifies a column (in this case we want 2 columns) 
+ \hline
+ Models & Test \\ [0.5ex] 
+ \hline  % Horizontal lines
+ Roberta (Liu et al., 2019) & 83.2  \\ 
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\ [1ex] 
+ \hline
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\ 
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8 \\
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\
+ ALBERT + DUMA (ensemble) (Zhu et al., 2020) & 89.8  \\ [1ex] 
+ \hline
+\end{tabular}
+\end{center}
+
+
+
+
+\newpage
+
+\section{Conclusion}
+
+
+\bibliographystyle{apacite}
+
+\bibliography{bibfile}
+
+\end{document}
