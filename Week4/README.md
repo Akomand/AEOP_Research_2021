@@ -1,11 +1,14 @@
 # Week 4 Materials
-## Project: Question Generation/Answering, Read Papers
+## Project: Question Answering Paper and Experiments
 ### MONDAY
+Today, we will choose a direction for our research paper on question answering from the following list
+- A Survey of Question Answering
+- A Comparative Study of Pre-trained Models on the Question Answering Task
 
-
+We will also read a couple papers on other pre-trained models to get an idea of what methods are being used for the Question Answering Task and look into some datasets we can use to Fine-tune our models.
 
 ### TUESDAY
-
+We will use the datasets we found and preprocess them and get them ready for the models.
 
 
 ### WEDNESDAY
@@ -15,7 +18,6 @@
 ### THURSDAY
 
 
-## Papers
-"Advances in Natural Language Question Answering": https://arxiv.org/pdf/1904.05276.pdf <br>
-"A Neural Question Answering System for Basic Questions about Subroutines": https://arxiv.org/pdf/2101.03999.pdf <br>
-"Dynamic Coattention Networks For Question Answering": https://arxiv.org/pdf/1611.01604.pdf
+
+### FRIDAY
+
